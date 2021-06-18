@@ -1,0 +1,33 @@
+.header-bar{
+    background-color: #2f3640;
+    overflow: hidden;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+}
+
+body{
+    background-color:#bdc3c7 ;
+    margin: 0;
+}
+label{
+    align-self: center;
+    text-align: center;
+    color:#fff;
+    width: 100%;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.p-10{
+    padding: 10px;
+}
+.w70{
+    padding: 70%;
+}
+.table-header
+{
+    color:#fff;
+    background-color:#2f3640 ;
+}
